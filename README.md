@@ -6,6 +6,7 @@
 - TypeScript
 - JavaScript
 - React
+- Nodejs
 - Golang
 - and exploring the broader JS ecosystem
 
