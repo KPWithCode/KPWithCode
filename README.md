@@ -1,5 +1,5 @@
-### Hey what's good people, I'm Kyle 👋
-
+### Hey, I'm Kyle 👋
+______________________________________________________________________________________________________________________________________
 
 ### I'm a Software Engineer with an affinity for problem solving. My expertise is in:
 
