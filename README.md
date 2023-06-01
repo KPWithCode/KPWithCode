@@ -26,7 +26,7 @@ ________________________________________________________________________________
 
 
 📫 Email me at: 
-  [Email](kphillips3753@gmail.com)
+  kphillips3753@gmail.com
 <!--
 **KPWithCode/KPWithCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
