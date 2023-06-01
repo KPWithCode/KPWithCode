@@ -1,13 +1,13 @@
 ### Hey, I'm Kyle 👋
 ______________________________________________________________________________________________________________________________________
 
-### I'm a Software Engineer with an affinity for problem solving. My expertise is in:
+### I'm a Software Engineer with an affinity for problem solving. I'm most proficient in
 
 - TypeScript
 - JavaScript
+- Golang
 - React
 - Nodejs
-- Golang
 - and exploring the broader JS ecosystem
 
 ### My most recent interests include:
