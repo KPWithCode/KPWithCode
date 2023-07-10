@@ -3,20 +3,21 @@ ________________________________________________________________________________
 
 ### I'm a Software Engineer with an affinity for problem solving. I'm most proficient in
 
-- TypeScript
-- JavaScript
-- Golang
-- React
-- Nodejs
-- and exploring the broader JS ecosystem
+![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=Apple&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=React&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-AWS&logoColor=white&color=blue)
 
 ### My most recent interests include:
-- Solidjs
 - Rust
+- Solidjs
 
 ### 🔭 I’m currently working on:
 - SafeBet - A fantasy sports application focused on in depth predictive analytics.
-- EngagePro - A low cost dashboard for finding the best matchups, leans, and projections in sports betting.
+- Statpad - A low cost dashboard for finding the best matchups, leans, and projections in sports betting.
 
 
 
