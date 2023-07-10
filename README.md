@@ -1,4 +1,4 @@
-### Hey, I'm Kyle 👋
+### Hey, I'm Kyle <img src="https://raw.githubusercontent.com/StanGirard/StanGirard/master/wave.gif" width="30px">
 ______________________________________________________________________________________________________________________________________
 
 ### I'm a Software Engineer with an affinity for problem solving. I'm most proficient in
@@ -21,8 +21,6 @@ ________________________________________________________________________________
 
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api?username=kpwithcode&show_icons=true&theme=dark)](https://github.com/kpwithcode/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kpwithcode&show_icons=true&theme=dark&hide=tcl,html,css,powershell,scss)](https://github.com/kpwithcode/github-readme-stats)
 
 
@@ -30,7 +28,8 @@ ________________________________________________________________________________
   kphillips3753@gmail.com
 <!--
 **KPWithCode/KPWithCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+This is my githubs stats card:
+[![KPWithCode's GitHub stats](https://github-readme-stats.vercel.app/api?username=KPWithCode&show_icons=true&theme=dark&rank_icon=percentile)](https://github.com/anuraghazra/github-readme-stats)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
