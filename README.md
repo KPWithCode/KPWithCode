@@ -16,7 +16,8 @@ ________________________________________________________________________________
 - Svelte
 
 ### 🔭 I’m currently working on:
-- SafeBet - A fantasy sports application focused on in depth predictive analytics.
+- SF - A secret squirrel SAAS project focused on litigation (also 🤫 lol)
+- Canary - Automated text messages response service for prperty managers 🤫
 - Statpad - A low cost dashboard for finding the best matchups, leans, and projections in sports betting.
 
 
