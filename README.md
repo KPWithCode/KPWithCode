@@ -12,12 +12,12 @@ ________________________________________________________________________________
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-AWS&logoColor=white&color=blue)
 
 ### My most recent interests include:
-- Rust - Also getting fun but async programming in this language is taking a lot of getting used to
 - Svelte - Getting FUN!
+- Rust - Also getting fun but async programming in this language is taking a lot of getting used to
 
 ### 🔭 I’m currently working on:
 - SF - A secret squirrel SAAS project focused on cybercrime reporting (also 🤫 lol)
-- Canary - Automated text messages response service for property managers and airbnb hosts 🤫
+- Canary - Automated text messages response service for property managers and airbnb hosts 🤫. Now a private repository: [Check it out](https://www.justcanary.com)
 - Statpad - A low cost dashboard for finding the best matchups, leans, and projections in sports betting.
 
 
