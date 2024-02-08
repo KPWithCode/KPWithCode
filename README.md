@@ -12,8 +12,8 @@ ________________________________________________________________________________
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-AWS&logoColor=white&color=blue)
 
 ### My most recent interests include:
-- Rust
-- Svelte
+- Rust - Also getting fun but async programming in this language is taking a lot of getting used to
+- Svelte - Getting FUN!
 
 ### 🔭 I’m currently working on:
 - SF - A secret squirrel SAAS project focused on cybercrime reporting (also 🤫 lol)
