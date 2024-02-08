@@ -16,8 +16,8 @@ ________________________________________________________________________________
 - Svelte
 
 ### 🔭 I’m currently working on:
-- SF - A secret squirrel SAAS project focused on litigation (also 🤫 lol)
-- Canary - Automated text messages response service for prperty managers 🤫
+- SF - A secret squirrel SAAS project focused on cybercrime reporting (also 🤫 lol)
+- Canary - Automated text messages response service for property managers and airbnb hosts 🤫
 - Statpad - A low cost dashboard for finding the best matchups, leans, and projections in sports betting.
 
 
