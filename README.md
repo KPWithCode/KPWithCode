@@ -16,8 +16,8 @@ ________________________________________________________________________________
 - Rust - Also getting fun but async programming in this language is taking a lot of getting used to
 
 ### 🔭 I’m currently working on:
-- StayFirm.io - Streamline Incident Response with Comprehensive Operational Reporting. A user-friendly platform where organizations can easily document and detail cybersecurity incidents. 
-- Canary - Automated text messages response service for property managers and airbnb hosts 🤫. Now a private repository: [Check it out](https://www.justcanary.com)
+- [StayFirm.io]https://www.stayfirm.io - Streamline Incident Response with Comprehensive Operational Reporting. A user-friendly platform where organizations can easily document and detail cybersecurity incidents. 
+- [JustCanary](https://www.justcanary.com) - Automated text messages response service for property managers and airbnb hosts 🤫.
 - Statpad - A low cost dashboard for finding the best matchups, leans, and projections in sports betting.
 
 
