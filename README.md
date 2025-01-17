@@ -1,7 +1,7 @@
 ### Hey, I'm Kyle <img src="https://raw.githubusercontent.com/StanGirard/StanGirard/master/wave.gif" width="30px">
 ______________________________________________________________________________________________________________________________________
 
-### I'm a Software Engineer with an affinity for SAAS, ECOMM & FINTECH. I'm most proficient in
+### I'm a Software Engineer with an affinity for SaaS, EComm & Fintech. I'm most proficient in
 
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=Apple&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=blue)
