@@ -16,6 +16,7 @@ ________________________________________________________________________________
 - Rust - Also getting fun but async programming in this language is taking a lot of getting used to
 
 ### 🔭 I’m currently working on:
+- [Bet IQ](https://kyle-4tnjuzyw.scoreapp.com) - Developing a precision advanced analytics tool that transform how sports bettors analyze matchups and make more informed decisions.
 - [StayFirm.io](https://www.stayfirm.io) - Streamline Incident Response with comprehensive ai assisted operational reports. A user-friendly platform where organizations can easily document and detail cybersecurity incidents. Check it the launch on [Product Hunt](https://www.producthunt.com/posts/stayfirm-io)
 - [JustCanary](https://www.justcanary.com) - Automated text messages response service for property managers and airbnb hosts 🤫.
 - Statpad - A low cost dashboard for finding the best matchups, leans, and projections in sports betting.
