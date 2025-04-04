@@ -20,7 +20,6 @@ ________________________________________________________________________________
 Check it out on [Product Hunt](https://www.producthunt.com/posts/bet-iq)
 - [StayFirm.io](https://www.stayfirm.io) - Streamline Incident Response with comprehensive ai assisted operational reports. A user-friendly platform where organizations can easily document and detail cybersecurity incidents. Check it out on [Product Hunt](https://www.producthunt.com/posts/stayfirm-io)
 - [JustCanary](https://www.justcanary.com) - Automated text messages response service for property managers and airbnb hosts 🤫.
-- Statpad - A low cost dashboard for finding the best matchups, leans, and projections in sports betting.
 
 
 
