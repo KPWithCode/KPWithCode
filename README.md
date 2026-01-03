@@ -22,6 +22,8 @@ ________________________________________________________________________________
 - [Bet IQ](https://betiq.carrd.co) - Developing a precision advanced analytics tool that transform how sports bettors analyze matchups and make more informed decisions. Currently available on the [App Store](https://apps.apple.com/us/app/bet-iq/id6742401758) . 
 Check it out on [Product Hunt](https://www.producthunt.com/posts/bet-iq)
 
+- [Weaver](https://github.com/KPWithCode/Workjot) - Turn messy slack discussions into structured documentation
+
 ## 📦 Previously Built:
 - [StayFirm.io](https://www.stayfirm.io) - Streamline Incident Response with comprehensive ai assisted operational reports. A user-friendly platform where organizations can easily document and detail cybersecurity incidents. Check it out on [Product Hunt](https://www.producthunt.com/posts/stayfirm-io)
 
