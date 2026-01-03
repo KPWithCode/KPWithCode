@@ -11,19 +11,25 @@ ________________________________________________________________________________
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-AWS&logoColor=white&color=blue)
 
-### My most recent interests include:
-- Svelte - It's getting FUN but Svelte5 caught me off guard a bit!
-- Rust - Also getting fun but async programming in this language is taking a lot of getting used to
+## 💡 Exploring:
+- **Electrical Engineering** - Microcontrollers & Embedded Systems
+- **Rust** - Getting comfortable with async patterns
 
-### 🔭 I’m currently working on:
+
+### 🚀 I’m currently working on:
+- **[Gambit]()** - Multi-sport fantasy card battle game with real NBA player stats. Built with Go, Echo framework, and Supabase. Features 6 pack types, gem-based economy, and turn-based 5v5 battles.
+
 - [Bet IQ](https://betiq.carrd.co) - Developing a precision advanced analytics tool that transform how sports bettors analyze matchups and make more informed decisions. Currently available on the [App Store](https://apps.apple.com/us/app/bet-iq/id6742401758) . 
 Check it out on [Product Hunt](https://www.producthunt.com/posts/bet-iq)
+
+## 📦 Previously Built:
 - [StayFirm.io](https://www.stayfirm.io) - Streamline Incident Response with comprehensive ai assisted operational reports. A user-friendly platform where organizations can easily document and detail cybersecurity incidents. Check it out on [Product Hunt](https://www.producthunt.com/posts/stayfirm-io)
+
 - [JustCanary](https://www.justcanary.com) - Automated text messages response service for property managers and airbnb hosts 🤫.
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kpwithcode&show_icons=true&theme=dark&hide=tcl,html,css,powershell,scss)](https://github.com/kpwithcode/github-readme-stats)
+⌨️[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kpwithcode&show_icons=true&theme=dark&hide=tcl,html,css,powershell,scss)
 
 
 📫 Email me at: 
