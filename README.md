@@ -17,6 +17,9 @@ ________________________________________________________________________________
 
 
 ### 🚀 I’m currently working on:
+
+- **[Hue](https://www.usehue.studio)** - a tap-first mood tracker that helps you understand your emotions.
+
 - **[Gambit]()** - Multi-sport fantasy card battle game with real NBA player stats. Built with Go, Echo framework, and Supabase. Features 6 pack types, gem-based economy, and turn-based 5v5 battles.
 
 - [Bet IQ](https://betiq.carrd.co) - Developing a precision advanced analytics tool that transform how sports bettors analyze matchups and make more informed decisions. Currently available on the [App Store](https://apps.apple.com/us/app/bet-iq/id6742401758) . 
