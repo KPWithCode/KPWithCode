@@ -18,7 +18,7 @@ ________________________________________________________________________________
 
 ### 🚀 I’m currently working on:
 
-- **[Hue](https://www.usehue.studio)** - a tap-first mood tracker that helps you understand your emotions.
+- **[Hue](https://www.usehue.studio)** - A tap-first mood tracker that helps you understand your emotional patterns.
 
 - **[Gambit]()** - Multi-sport fantasy card battle game with real NBA player stats. Built with Go, Echo framework, and Supabase. Features 6 pack types, gem-based economy, and turn-based 5v5 battles.
 
