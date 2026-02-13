@@ -18,23 +18,25 @@ ________________________________________________________________________________
 
 ### 🚀 I’m currently working on:
 
-- **[Hue](https://www.usehue.studio)** - A tap-first mood tracker that helps you understand your emotional patterns.
+- **[Carrie](https://www.carrieops.com)** - An operations platform for small-batch herbalists to manage lot traceability, batch records, and expiry decisions from intake to finished product.
 
-- **[Gambit]()** - Multi-sport fantasy card battle game with real NBA player stats. Built with Go, Echo framework, and Supabase. Features 6 pack types, gem-based economy, and turn-based 5v5 battles.
+- **[Hue](https://www.usehue.studio)** - A tap-first mood tracker that helps people understand emotional patterns across time, people, and places, using reflective insights.
 
-- [Bet IQ](https://betiq.carrd.co) - Developing a precision advanced analytics tool that transform how sports bettors analyze matchups and make more informed decisions. Currently available on the [App Store](https://apps.apple.com/us/app/bet-iq/id6742401758) . 
+- [Bet IQ](https://betiq.carrd.co) - A data-driven betting intelligence app that helps sports bettors analyze matchups, spot value, and make clearer pregame decisions. Available on the [App Store](https://apps.apple.com/us/app/bet-iq/id6742401758) . 
 Check it out on [Product Hunt](https://www.producthunt.com/posts/bet-iq)
 
-- [Weaver](https://github.com/KPWithCode/Workjot) - Turn messy slack discussions into structured documentation
+- **[Gambit]()** - Multi-sport fantasy card battle game with real NBA player stats. Built with Go, Echo framework, and Supabase. Features 6 pack types, gem-based economy, and turn-based 5v5 battles.
+  
 
 ## 📦 Previously Built:
 - [StayFirm.io](https://www.stayfirm.io) - Streamline Incident Response with comprehensive ai assisted operational reports. A user-friendly platform where organizations can easily document and detail cybersecurity incidents. Check it out on [Product Hunt](https://www.producthunt.com/posts/stayfirm-io)
 
 - [JustCanary](https://www.justcanary.com) - Automated text messages response service for property managers and airbnb hosts 🤫.
 
-
+- [Weaver](https://github.com/KPWithCode/Workjot) - Turn messy slack discussions into structured documentation
 
 ⌨️[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kpwithcode&show_icons=true&theme=dark&hide=tcl,html,css,powershell,scss)
+
 
 
 📫 Email me at: 
