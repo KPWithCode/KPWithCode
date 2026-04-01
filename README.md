@@ -22,7 +22,7 @@ ________________________________________________________________________________
 
 - **[Hue](https://www.usehue.studio)** - A tap-first mood tracker that helps people understand emotional patterns across time, people, and places, using reflective insights.
 
-- [Bet IQ](https://betiq.carrd.co) - A data-driven betting intelligence app that helps sports bettors analyze matchups, spot value, and make clearer pregame decisions. Available on the [App Store](https://apps.apple.com/us/app/bet-iq/id6742401758) . 
+- [Bet IQ](https://www.joinbetiq.com) - A data-driven betting intelligence app that helps sports bettors analyze matchups, spot value, and make clearer pregame decisions. Available on the [App Store](https://apps.apple.com/us/app/bet-iq/id6742401758) . 
 Check it out on [Product Hunt](https://www.producthunt.com/posts/bet-iq)
 
 - **[Gambit]()** - Multi-sport fantasy card battle game with real NBA player stats. Built with Go, Echo framework, and Supabase. Features 6 pack types, gem-based economy, and turn-based 5v5 battles.
