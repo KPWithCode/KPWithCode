@@ -12,22 +12,24 @@ ________________________________________________________________________________
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-AWS&logoColor=white&color=blue)
 
 ## 💡 Exploring:
-- **Rust** - Getting comfortable with async patterns
+- **Rust** - Getting better at Rust
 
 
-### 🚀 I’m currently working on:
+### 🚀 Fun things I like to work on:
 
-- **[Carrie](https://www.carrieops.com)** - An operations platform for small-batch herbalists to manage lot traceability, batch records, and expiry decisions from intake to finished product.
-
-- **[Hue](https://www.usehue.studio)** - A tap-first mood tracker that helps people understand emotional patterns across time, people, and places, using reflective insights.
+- **[Hue](https://www.usehue.studio/download)** - A tap-first mood tracker that helps people understand emotional patterns across time, people, and places, using reflective insights.
 
 - [Bet IQ](https://www.joinbetiq.com) - A data-driven betting intelligence app that helps sports bettors analyze matchups, spot value, and make clearer pregame decisions. Available on the [App Store](https://apps.apple.com/us/app/bet-iq/id6742401758) . 
 Check it out on [Product Hunt](https://www.producthunt.com/posts/bet-iq)
 
-- **[Gambit]()** - Multi-sport fantasy card battle game with real NBA player stats. Built with Go, Echo framework, and Supabase. Features 6 pack types, gem-based economy, and turn-based 5v5 battles.
+- **[BioTrace](https://apps.apple.com/us/app/biotrace-longevity-tracker/id6759473428)** - Where Biomarkers Meet Healthspan. Import lab reports, understand what changed, and follow clear weekly priorities with guidance.
+
+
+- **[Carrie](https://www.carrieops.com)** - An operations platform for small-batch herbalists to manage lot traceability, batch records, and expiry decisions from intake to finished product.
+
   
 
-## 📦 Previously Built:
+## 📦 Previous projects:
 - [StayFirm.io](https://www.stayfirm.io) - Streamline Incident Response with comprehensive ai assisted operational reports. A user-friendly platform where organizations can easily document and detail cybersecurity incidents. Check it out on [Product Hunt](https://www.producthunt.com/posts/stayfirm-io)
 
 - [JustCanary](https://www.justcanary.com) - Automated text messages response service for property managers and airbnb hosts 🤫.
