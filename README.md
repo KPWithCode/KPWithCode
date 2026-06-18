@@ -12,7 +12,6 @@ ________________________________________________________________________________
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-AWS&logoColor=white&color=blue)
 
 ## 💡 Exploring:
-- **Electrical Engineering** - Microcontrollers & Embedded Systems
 - **Rust** - Getting comfortable with async patterns
 
 
