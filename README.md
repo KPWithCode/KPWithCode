@@ -19,44 +19,31 @@ ________________________________________________________________________________
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-AWS&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Cloud-Google_Cloud-informational?style=flat&logo=googlecloud&logoColor=white&color=blue)
 
-## 💡 Exploring:
-- **Rust** - Getting better at Rust
-
+## 🛠️ Creator & Maintainer:
+*   **[LOBE](https://getlobe.dev)** - Latency Observer Benchmarking Engine. A local-first, high-performance HTTP profiling proxy and TUI/web application built in Rust to catch performance regressions before production. 
+    *   **`lobe-core`**: The underlying high-performance network engine capturing route-scoped DNS, TCP, TLS, TTFB, and download phases against grounded loopback/LAN baselines.
+    *   **`lobe-cli`**: The developer-facing single-binary CLI and capture proxy wrapper. Features local session streaming, bimodal latency heatmaps, and a custom **`lobe-explain`** AI diagnostic engine optimized as a specialized skill for Claude Code and Cursor.
+*   
 
 ### 🚀 Fun things I like to work on:
-
-- **[Hue](https://www.usehue.studio/download)** - A tap-first mood tracker that helps people understand emotional patterns across time, people, and places, using reflective insights.
-
-- [Bet IQ](https://www.joinbetiq.com) - A data-driven betting intelligence app that helps sports bettors analyze matchups, spot value, and make clearer pregame decisions. Available on the [App Store](https://apps.apple.com/us/app/bet-iq/id6742401758) . 
-Check it out on [Product Hunt](https://www.producthunt.com/posts/bet-iq)
-
-- **[BioTrace](https://apps.apple.com/us/app/biotrace-longevity-tracker/id6759473428)** - Where Biomarkers Meet Healthspan. Import lab reports, understand what changed, and follow clear weekly priorities with guidance.
+*   **[Hue](https://www.usehue.studio/download)** - A tap-first mood tracker that helps people understand emotional patterns across time, people, and places, using reflective insights.
+*   **[Bet IQ](https://www.joinbetiq.com)** - A data-driven betting intelligence app that helps sports bettors analyze matchups, spot value, and make clearer pregame decisions. Available on the [App Store](🔗) and [Product Hunt](🔗).
+*   **[BioTrace](https://apps.apple.com/us/app/biotrace-longevity-tracker/id6759473428)** - A healthspan tracking platform where users import lab reports to track biomarker shifts, spot changes over time, and follow personalized weekly health priorities.
+*   **[Carrie](https://www.carrieops.com)** - An operations platform for small-batch herbalists to manage lot traceability, batch records, and expiry decisions from intake to finished product.
 
 
-- **[Carrie](https://www.carrieops.com)** - An operations platform for small-batch herbalists to manage lot traceability, batch records, and expiry decisions from intake to finished product.
-
-  
-
-## 📦 Previous projects:
-- [StayFirm.io](https://www.stayfirm.io) - Streamline Incident Response with comprehensive ai assisted operational reports. A user-friendly platform where organizations can easily document and detail cybersecurity incidents. Check it out on [Product Hunt](https://www.producthunt.com/posts/stayfirm-io)
-
-- [JustCanary](https://www.justcanary.com) - Automated text messages response service for property managers and airbnb hosts 🤫.
-
-- [Weaver](https://github.com/KPWithCode/Workjot) - Turn messy slack discussions into structured documentation
-
-⌨️[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kpwithcode&show_icons=true&theme=dark&hide=tcl,html,css,powershell,scss)
+## 📦 Archived/Past Builds:
+*   **StayFirm.io** (AI-assisted incident response), **JustCanary** (property management SMS automation), and **Weaver** (Slack-to-doc conversion tools).
 
 
 
-📫 Email me at: 
-  kphillips3753@gmail.com
 <!--
 **KPWithCode/KPWithCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 This is my githubs stats card:
 [![KPWithCode's GitHub stats](https://github-readme-stats.vercel.app/api?username=KPWithCode&show_icons=true&theme=dark&rank_icon=percentile)](https://github.com/anuraghazra/github-readme-stats)
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭💡 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
