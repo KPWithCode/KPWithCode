@@ -24,7 +24,7 @@ ________________________________________________________________________________
     *   **`lobe-core`**: The underlying high-performance network engine capturing route-scoped DNS, TCP, TLS, TTFB, and download phases against grounded loopback/LAN baselines.
     *   **`lobe-cli`**: The developer-facing single-binary CLI and capture proxy wrapper. Features local session streaming, bimodal latency heatmaps, and a custom **`lobe-explain`** AI diagnostic engine optimized as a specialized skill for Claude Code and Cursor.   
 
-### 🚀 Fun things I like to work on:
+## 🚀 Fun things I like to work on:
 *   **[Hue](https://www.usehue.studio/download)** - A tap-first mood tracker that helps people understand emotional patterns across time, people, and places, using reflective insights.
 *   **[Bet IQ](https://www.joinbetiq.com)** - A data-driven betting intelligence app that helps sports bettors analyze matchups, spot value, and make clearer pregame decisions. Available on the [App Store](🔗).
 *   **[BioTrace](https://apps.apple.com/us/app/biotrace-longevity-tracker/id6759473428)** - A healthspan tracking platform where users import lab reports to track biomarker shifts, spot changes over time, and follow personalized weekly health priorities.
