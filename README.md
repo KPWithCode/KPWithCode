@@ -27,16 +27,17 @@ ________________________________________________________________________________
 ## 🚀 Fun things I like to work on:
 *   **[Hue](https://www.usehue.studio/download)** - A tap-first mood tracker that helps people understand emotional patterns across time, people, and places, using reflective insights.
 *   **[Bet IQ](https://www.joinbetiq.com)** - A data-driven betting intelligence app that helps sports bettors analyze matchups, spot value, and make clearer pregame decisions. Available on the [App Store](🔗).
-*   **[BioTrace](https://apps.apple.com/us/app/biotrace-longevity-tracker/id6759473428)** - A healthspan tracking platform where users import lab reports to track biomarker shifts, spot changes over time, and follow personalized weekly health priorities.
-*   **[Carrie](https://www.carrieops.com)** - An operations platform for small-batch herbalists to manage lot traceability, batch records, and expiry decisions from intake to finished product.
 
 
-## 📦 Archived/Past Builds:
+## 📦 Archived/Past Things:
 *   **StayFirm.io** (AI-assisted incident response), **JustCanary** (property management SMS automation), and **Weaver** (Slack-to-doc conversion tools).
 
 
 
 <!--
+*   **[BioTrace](https://apps.apple.com/us/app/biotrace-longevity-tracker/id6759473428)** - A healthspan tracking platform where users import lab reports to track biomarker shifts, spot changes over time, and follow personalized weekly health priorities.
+*   **[Carrie](https://www.carrieops.com)** - An operations platform for small-batch herbalists to manage lot traceability, batch records, and expiry decisions from intake to finished product.
+
 **KPWithCode/KPWithCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 This is my githubs stats card:
 [![KPWithCode's GitHub stats](https://github-readme-stats.vercel.app/api?username=KPWithCode&show_icons=true&theme=dark&rank_icon=percentile)](https://github.com/anuraghazra/github-readme-stats)
